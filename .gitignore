@@ -1,0 +1,28 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+.pytest_cache/
+
+# Local credentials and tooling
+.env
+.env.*
+!.env.example
+.aws/
+.agents/
+.codex/
+.vscode/
+.idea/
+
+# Lab reports, answers, screenshots and archives
+screenshots/
+/answers.md
+/answer.md
+*.zip
+*.pdf
+*.docx
